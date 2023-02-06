@@ -5,4 +5,5 @@
 - 🌱 Trabalho atualmente no Villefort atacadista
 - 💞️ _Dê uma olhadinha nos meus repositórios_ ;)
 
-- [Meu Linkedin](www.linkedin.com/in/diego-de-oliveira-martins-3b232a234)
+- [Meu Linkedin](https://www.linkedin.com/in/diego-de-oliveira-martins-3b232a234/)
+
