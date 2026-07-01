@@ -1,29 +1,23 @@
-# 👋 Olá, eu sou Diego de Oliveira Martins
+👋 Olá, eu sou Diego de Oliveira Martins
 
-🎓 Tenho 24 anos e sou formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Desenvolvimento Web Full Stack e Administração de Bancos de Dados.
+Backend Developer | Python | FastAPI | APIs REST | SQL | Automação
 
-💻 Atuo como Desenvolvedor Back-end, desenvolvendo soluções voltadas para APIs REST, integração de sistemas, automação de processos e bancos de dados.
+🎓 Formado em Análise e Desenvolvimento de Sistemas, com pós-graduação em Desenvolvimento Web Full Stack e Administração de Bancos de Dados.
 
-🚀 Tenho experiência com:
+💻 Desenvolvo soluções back-end com foco em APIs REST, integração de sistemas, automação de processos e bancos de dados.
 
-* Python
-* FastAPI
-* PHP
-* JavaScript
-* Angular
-* HTML & CSS
-* SQL (MySQL e SQL Server)
-* Git & GitHub
-* Docker
-* Postman
-* Desenvolvimento de APIs
-* Integração de sistemas
+🚀 Stack
 
-💼 Atuei como Desenvolvedor Júnior no Villefort Atacadista e atualmente trabalho com desenvolvimento de soluções, infraestrutura e suporte tecnológico no Clube Campestre Belo Horizonte, participando de projetos de automação e integração de sistemas.
+Backend: Python • FastAPI • PHP
 
-📂 Neste GitHub você encontrará projetos de desenvolvimento web, APIs, automações, integrações, sistemas completos e experimentos voltados ao aprendizado contínuo e à evolução profissional.
+Frontend: Angular • JavaScript • HTML • CSS
 
-🔗 Conheça mais sobre minha trajetória profissional no LinkedIn:
-**linkedin.com/in/diego-de-oliveira-martins-3b232a234**
+Banco de Dados: MySQL • SQL Server
 
-⭐ Se algum projeto for útil para você, considere deixar uma estrela no repositório!
+Ferramentas: Git • GitHub • Docker • Postman
+
+💼 Experiência como Desenvolvedor Júnior no Villefort Atacadista e atuação atual no Clube Campestre Belo Horizonte.
+
+📂 Aqui você encontrará projetos de APIs, sistemas web, automações e integrações de sistemas.
+
+🔗 LinkedIn: linkedin.com/in/diego-de-oliveira-martins-3b232a234
